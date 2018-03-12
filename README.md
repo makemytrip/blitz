@@ -17,7 +17,7 @@ We recommend using Apache Nifi for creating and managing alert data files to the
 
 The illustration below depicts the functioning of the framework.
 
-[![image](blitz/images/blitz_illustration.png)]()
+[![image](https://github.com/makemytrip/blitz/blob/master/images/blitz_illustration.png)]()
 
 #### Sample use cases / implementations:
 
