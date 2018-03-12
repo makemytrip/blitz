@@ -232,7 +232,9 @@ It is a container class for all enrichment methods. It is instantiated in blitz.
 
 ### template.html
 
-It is a generic HTML template to build an email alert. It has placeholders where title, body, action buttons are replaced with actual data according to the configuration. One can also write a custom template with specific layouts/schemes etc.
+It is a generic HTML template to build an email alert. It has placeholders where title, body, action buttons are replaced with actual data according to the configuration. One can also write a custom template with specific layouts/schemes etc. A sample alert template is shown below.
+
+[![image](https://github.com/makemytrip/blitz/blob/master/images/email_template.png)]()
 
 
 ## Integrating your own source in Blitz
