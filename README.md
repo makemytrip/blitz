@@ -15,7 +15,7 @@ Blitz assumes input as an alert data file structured in JSON format. The alert d
 
 We recommend using Apache Nifi for creating and managing alert data files to the Blitz framework as it allows ingestion, parsing and structuring of information in a manner suitable for consumption by the framework. However one can choose any other suitable alternative.
 
-The illustration below depicts the functioning of the framework.
+The illustration below depicts the functioning of the blitz framework.
 
 [![image](https://github.com/makemytrip/blitz/blob/master/images/blitz_illustration.png)]()
 
