@@ -214,7 +214,7 @@ We can have multiple comma separated conditional enrichment blocks in the config
     The structure of the JSON includes:<br>
     - <b>e_name</b> : descriptive name of the enrichment<br>
     - <b>e_func</b> : method name as specified in modules.py<br>
-    - <b>e_key</b> : comma separated method parameters that are present in the alert input data<br>
+    - <b>e_key</b> : comma separated method parameters that are present in the alert input data.<br>
     - <b>enabled</b> : boolean representing if the enrichment is to be executed.<br>
 
   - <b>send_mail_no_condition_match</b> : boolean to decide if mail is to be sent in case no conditional enrichment matches the alert
