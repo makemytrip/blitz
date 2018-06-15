@@ -1,6 +1,6 @@
 # Blitz - Incident Response Automation Framework
 
-Blitz is an open source incident response automation framework to aimed at accelerating incident triage, tracking and response capabilities. The framework allows:
+Blitz is an open source incident response automation framework aimed at accelerating incident triage, tracking and response capabilities. The framework allows:
 
 - Device agnostic alert ingest
 
